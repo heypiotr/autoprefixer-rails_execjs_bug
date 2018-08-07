@@ -142,9 +142,6 @@
     ],
     "plugins": [
       [
-        "transform-proto-to-assign"
-      ],
-      [
         "transform-class-properties",
         {
           "spec": true

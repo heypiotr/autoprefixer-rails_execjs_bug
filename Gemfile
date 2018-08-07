@@ -13,7 +13,7 @@ gem 'puma', '~> 3.11'
 gem 'sassc-rails'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
-gem 'autoprefixer-rails', path: './vendor/autoprefixer-rails-c2079d7'
+gem 'autoprefixer-rails', path: './vendor/autoprefixer-rails-c2079d7-fix'
 
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5'
